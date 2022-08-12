@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 ![readme](https://user-images.githubusercontent.com/76038143/184336528-b31f928a-a301-4331-a0c5-5195229e690a.jpg)
-
+![](https://raw.githubusercontent.com/nasrmohammad4804/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nasrmohammad4804/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/nasrmohammad4804/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nasrmohammad4804/github-stats/master/generated/languages.svg#gh-light-mode-only)
 - 🔭 I’m currently working on microservice and spring cloud tech
 - 🌱 I’m currently learning webflux and reactive programming 
 - 👯 I’m looking to collaborate on spring project

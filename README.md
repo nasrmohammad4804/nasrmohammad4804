@@ -4,7 +4,7 @@
 interested backend development(spring boot) with 2 year experience on different project also enthusiasting in software engineering tech & concept . and solve algorithmic problem with good solution and try to use last technology represented
 
 ## find me here
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohmmadnasr)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammadnasr)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:nasrmohammad4804@gmail.com)
 ---------------------------------------------------------------------------------------------------
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasrmohammad4804&theme=dark&background=000000)](https://git.io/streak-stats)

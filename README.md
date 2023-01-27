@@ -24,7 +24,7 @@ interested backend development(spring boot) with 2 year experience on different 
 ---------------------------------------------------------------------------------------
 ### Back-End & Databases Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,redis,hibernate,mysql,postgres,git,mongo&perline=8)](https://skillicons.dev)
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1ofJsveWEN9OO7TdVyEKihCrTbxKkDm3CSvlTupL&s" width='58' height='40' />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1ofJsveWEN9OO7TdVyEKihCrTbxKkDm3CSvlTupL&s" width='56' height='48' />
 -----------------------------------------------------------------------------------------
 
 ### Devops Skills

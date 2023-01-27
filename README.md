@@ -1,10 +1,15 @@
-### Hi there 👋
+### About me
 
 
-![read](https://user-images.githubusercontent.com/76038143/184350613-189d3fa8-9ade-48d7-933f-cf34746f0574.jpg)
-### 🔥  my stats :
+interested backend development(spring boot) with 2 year experience on different project also enthusiasting in software engineering tech & concept . and solve algorithmic problem with good solution and try to use last technology represented
+
+## find me here
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohmmadnasr)
+[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:nasrmohammad4804@gmail.com)
+---------------------------------------------------------------------------------------------------
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasrmohammad4804&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrmohammad4804&layout=compact&theme=vision-friendly-dark)](https://github.com/nasrmohammad4804/github-readme-stats)
+
 - 🔭 I’m currently working on microservice and spring cloud tech
 - 🌱 I’m currently learning microservice pattern & kubernetes
 - 👯 I’m looking to collaborate on spring project

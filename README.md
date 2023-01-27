@@ -14,3 +14,10 @@
 - 😄 Pronouns: he/him
 
 
+### Front-End Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery&perline=7)](https://skillicons.dev)
+
+### Back-End & Databases Skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,redis,hibernate,mysql,postgres,git,mongo&perline=8)](https://skillicons.dev)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width='50' height='60' />
+          

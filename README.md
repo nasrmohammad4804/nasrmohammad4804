@@ -39,6 +39,8 @@ interested backend development(spring boot) with 2 year experience on different 
      width='180' height='130'>
  &nbsp; &nbsp;
  <img src="https://olmheim.com/event-driven-architecture/images/event-driven-architecture.png" width='175' height='140'>
+ &nbsp; &nbsp;
+ <img src="https://www.vshsolutions.com/wp-content/uploads/2020/05/solid-design-principles-featured-image.png" width='180' height='140'>
 </p>
 
 

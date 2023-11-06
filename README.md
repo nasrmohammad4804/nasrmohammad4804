@@ -10,8 +10,8 @@ interested backend development(spring boot) with 2 year experience on different 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasrmohammad4804&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrmohammad4804&layout=compact&theme=vision-friendly-dark)](https://github.com/nasrmohammad4804/github-readme-stats)
 
-- 🔭 I’m currently working on microservice and spring cloud tech
-- 🌱 I’m currently learning websocket & kubernetes
+- 🔭 I’m currently working on microservice and spring project
+- 🌱 I’m currently learning react and related technology like redux - next.js
 - 👯 I’m looking to collaborate on spring project
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about java and backend development

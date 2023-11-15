@@ -19,30 +19,10 @@ interested backend development(spring boot) with 2 year experience on different 
 - 😄 Pronouns: he/him
 
 
-### Front-End Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery&perline=7)](https://skillicons.dev)
----------------------------------------------------------------------------------------
-### Back-End & Databases Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,redis,hibernate,mysql,postgres,git,mongo&perline=8)](https://skillicons.dev)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQltqV_F2FEQmGHtVzS-xPv3MrfUpZIs6tKiGimQbD7w&s" width='58' height='48' border-radius='10px' background-color='black'/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1ofJsveWEN9OO7TdVyEKihCrTbxKkDm3CSvlTupL&s" width='56' height='48' border-radius='10px'
-     background-color='black' />
------------------------------------------------------------------------------------------
-
-### Devops Skills
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes&theme=light)](https://skillicons.dev)
-------------------------------------------------------------------------------------------
-
-### Software Engineering Concepts & Architecture
-<p>
-<img src="https://user-images.githubusercontent.com/76038143/215148831-6dfffcaf-e025-4a3a-a7a2-98386b1f9ede.jpg" width='170' height='180'>
- &nbsp;  &nbsp;
-<img src="https://www.aalpha.net/wp-content/uploads/2020/04/development-of-microservices.png"
-     width='180' height='130'>
- &nbsp; &nbsp;
- <img src="https://olmheim.com/event-driven-architecture/images/event-driven-architecture.png" width='175' height='140'>
- &nbsp; &nbsp;
- <img src="https://www.vshsolutions.com/wp-content/uploads/2020/05/solid-design-principles-featured-image.png" width='180' height='140'>
+### My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,java,maven,spring,hibernate,postgres,mysql,mongo,redis,kafka,rabbitmq,python,html,css,sass,js,react,materialui,redux,linux&perline=8&theme=dark" />
+  </a>
 </p>
-
 

@@ -22,7 +22,7 @@ interested backend development(spring boot) with 3 year experience on different 
 ### My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,java,maven,spring,hibernate,postgres,mysql,mongo,redis,kafka,rabbitmq,python,html,css,sass,js,react,materialui,redux,linux,idea,postman&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,java,maven,spring,hibernate,postgres,mysql,mongo,redis,elasticsearch,kafka,rabbitmq,python,html,css,sass,js,react,materialui,redux,linux,idea&perline=8&theme=dark" />
   </a>
 </p>
 

@@ -1,7 +1,6 @@
 ### About me
 
-
-interested backend development(spring boot) with 3 year experience on different project also enthusiasting in software engineering tech & concept . and solve algorithmic problem with good solution and try to use last technology represented
+a lover of software engineering with 4 year of experience. that most of time think to solve problem in simple way. i use with different tool from project management to infrstructure without any prejudice. rather considering usecase. i love to build amazing product that help people life easier.
 
 ## find me here
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadnasr/)
@@ -10,11 +9,11 @@ interested backend development(spring boot) with 3 year experience on different 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasrmohammad4804&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrmohammad4804&layout=compact&theme=vision-friendly-dark)](https://github.com/nasrmohammad4804/github-readme-stats)
 
-- 🔭 I’m currently working on microservice and spring project
-- 🌱 I’m currently learning react and related technology like typescript - next.js
-- 👯 I’m looking to collaborate on spring project
+- 🔭 I’m currently working on enterprise project
+- 🌱 I’m currently learning some of data engineering concept & tool
+- 👯 I’m looking to collaborate on open source project 
 - 🤔 I’m looking for help with Devops
-- 💬 Ask me about java and backend development
+- 💬 Ask me about java and backend development 
 - 📫 How to reach me: nasrmohammad4804@gmail.com
 - 😄 Pronouns: he/him
 

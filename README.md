@@ -1,6 +1,6 @@
 ### About me
 
-a lover of software engineering with 4 year of experience. that most of time think to solve problem in simple way. i use with different tool from project management to infrstructure without any prejudice. rather considering usecase. i love to build amazing product that help people life easier.
+a lover of software engineering with 4 year of experience. that most of time think to solve problem in simple way. i use with different tool from project management to infrstructure without any pain 🙂. rather considering usecase. i love to build amazing product that help people life easier.
 
 ## find me here
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadnasr/)
